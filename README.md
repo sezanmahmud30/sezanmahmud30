@@ -17,7 +17,8 @@
 
 <br>
 
-## 📊 GitHub Stats
+##📊 GitHub Analytics
+
 
 <div align="center">
   <table>
